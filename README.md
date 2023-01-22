@@ -1,6 +1,6 @@
 # Next JS, Tailwind CSS, Next Auth and Prisma Starter
 
-Quickly get started with Next JS, Tailwind CSS, Next Auth and Prisma.
+Quickly start your next Full Stack Project with Next JS, Tailwind CSS, Next Auth and Prisma.
 
 ## Tools
 - [Next JS](https://nextjs.org/)
